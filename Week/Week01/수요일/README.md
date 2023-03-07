@@ -12,6 +12,6 @@
   |[김주성](https://github.com/)| 🧠 |
   |[김지현](https://github.com/)| 🧠 |
   |[박수영](https://github.com/)| 🧠 |
-  |[오동혁](https://github.com/97DongHyeokOH)| [<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_python.svg" height="25"/>](./BOJ1439_오동혁.py) |
+  |[오동혁](https://github.com/97DongHyeokOH)|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_python.svg" height="25"/>](./BOJ1439_오동혁.py)|
   |[조수혜](https://github.com/)| 🧠 |
 </div>
