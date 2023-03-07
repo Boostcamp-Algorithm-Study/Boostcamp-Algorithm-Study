@@ -29,7 +29,7 @@
 <summary>😎click to open</summary>
 <div markdown="1">
 
-|Week| 월요일 | 화요일 | 수요일 | 목요일 | 금 |
+|Week| 월요일 | 화요일 | 수요일 | 목요일 | 금요일 |
 |:--:|:-:|:-:|:-:|:-:|:-:|
 |[Week 1](./Week/Week01/README.md)|||[뒤집기](https://www.acmicpc.net/problem/1439)|
 </details>
