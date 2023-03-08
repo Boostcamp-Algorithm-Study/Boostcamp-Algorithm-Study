@@ -10,7 +10,7 @@
   ||월요일|화요일|수요일|목요일|금요일|
   |:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
   |문제|||[뒤집기](https://www.acmicpc.net/problem/1439)|[A->B](https://www.acmicpc.net/problem/16953)|
-  |[김주성](https://github.com/kjs2109)||| 🧠 | 🧠 |
+  |[김주성](https://github.com/kjs2109)|||[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_python.svg" height="25"/>](./BOJ1439_김주성.py)|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_python.svg" height="25"/>](./BOJ16953_김주성.py)|
   |[김지현](https://github.com/codehyunn)||| 🧠 | 🧠 |
   |[박수영](https://github.com/nstalways)||| 🧠 | 🧠 |
   |[오동혁](https://github.com/97DongHyeokOH)|||[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_python.svg" height="25"/>](./BOJ1439_오동혁.py)| 🧠 |
