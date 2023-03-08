@@ -14,4 +14,4 @@ for i in range(len(data) - 1):
     else:                   # 1로 뒤집어 져야 하는 경우 
       count1 += 1 
 
-print(min(count0, count1)) 
+print(min(count0, count1))
