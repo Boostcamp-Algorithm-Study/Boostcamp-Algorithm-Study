@@ -31,6 +31,6 @@
 
 |Week| 월요일 | 화요일 | 수요일 | 목요일 | 금요일 |
 |:--:|:-:|:-:|:-:|:-:|:-:|
-|[Week 1](./Week/Week01/README.md)|||[뒤집기](https://www.acmicpc.net/problem/1439)|[A->B](https://www.acmicpc.net/problem/16953)|
+|[Week 1](./Week/Week01/README.md)|||[뒤집기](https://www.acmicpc.net/problem/1439)|[A->B](https://www.acmicpc.net/problem/16953)|[카드2](https://www.acmicpc.net/problem/2164)|
 </details>
   
