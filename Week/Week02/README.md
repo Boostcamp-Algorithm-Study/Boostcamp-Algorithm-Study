@@ -9,10 +9,10 @@
   <!--링크 삽입할 때 Forked Repo(개인 저장소)가 아닌 Remote Repo(원본 저장소) 주소를 붙여넣을 것-->
   ||월요일|화요일|수요일|목요일|금요일|
   |:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
-  |문제|||[뒤집기](https://www.acmicpc.net/problem/1439)|[A->B](https://www.acmicpc.net/problem/16953)|[카드2](https://www.acmicpc.net/problem/2164)|
-  |[김주성](https://github.com/kjs2109)||| 🧠 | 🧠 | 🧠 |
-  |[김지현](https://github.com/codehyunn)||| 🧠 | 🧠 | 🧠 |
-  |[박수영](https://github.com/nstalways)||| 🧠 | 🧠 | 🧠 |
-  |[오동혁](https://github.com/97DongHyeokOH)||| 🧠 | 🧠 | 🧠 |
-  |[조수혜](https://github.com/suhyehye)||| 🧠 | 🧠 | 🧠 |
+  ||[거짓말](https://www.acmicpc.net/problem/1043)|[단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)|[정수삼각형(1932)](https://www.acmicpc.net/problem/1932)|[평범한 배낭](https://www.acmicpc.net/problem/12865)|[프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679)|
+  |[김주성](https://github.com/kjs2109)| 🧠 | 🧠 | 🧠 | 🧠 | 🧠 |
+  |[김지현](https://github.com/codehyunn)| 🧠 | 🧠 | 🧠 | 🧠 | 🧠 |
+  |[박수영](https://github.com/nstalways)|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_python.svg" height="25"/>](./BOJ1043_박수영.py)|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_python.svg" height="25"/>](./단속카메라_박수영.py)| 🧠 | 🧠 | 🧠 |
+  |[오동혁](https://github.com/97DongHyeokOH)| 🧠 | 🧠 | 🧠 | 🧠 | 🧠 |
+  |[조수혜](https://github.com/suhyehye)| 🧠 | 🧠 | 🧠 | 🧠 | 🧠 |
 </div>
