@@ -45,3 +45,4 @@ for party in parties:
             break
 
 print(cnt)
+
