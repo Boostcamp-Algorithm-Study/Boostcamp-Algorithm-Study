@@ -11,7 +11,7 @@
   |:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
   ||[택배 배송](https://www.acmicpc.net/problem/5972)|[124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899)|[]()|[배열 돌리기1](https://www.acmicpc.net/problem/16926)|[피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)|
   |[김주성](https://github.com/kjs2109)| 🧠 | 🧠 | 🧠 | 🧠 | 🧠 |
-  |[김지현](https://github.com/codehyunn)| 🧠 | 🧠 | 🧠 | 🧠 | 🧠 |
+  |[김지현](https://github.com/codehyunn)| [<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_python.svg" height="25"/>](./BOJ5972_김지현.py) | 🧠 | 🧠 | 🧠 | 🧠 |
   |[박수영](https://github.com/nstalways)| 🧠 | 🧠 | 🧠 | 🧠 | 🧠 |
   |[오동혁](https://github.com/97DongHyeokOH)|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_python.svg" height="25"/>](./BOJ5972_오동혁.py)| 🧠 | 🧠 | 🧠 | 🧠 |
   |[조수혜](https://github.com/suhyehye)| <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_python.svg" height="25"/> | 🧠 | 🧠 | 🧠 | 🧠 |
