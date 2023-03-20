@@ -14,5 +14,5 @@
   |[김지현](https://github.com/codehyunn)| 🧠 | 🧠 | 🧠 | 🧠 | 🧠 |
   |[박수영](https://github.com/nstalways)| 🧠 | 🧠 | 🧠 | 🧠 | 🧠 |
   |[오동혁](https://github.com/97DongHyeokOH)|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_python.svg" height="25"/>](./BOJ5972_오동혁.py)| 🧠 | 🧠 | 🧠 | 🧠 |
-  |[조수혜](https://github.com/suhyehye)| 🧠 | 🧠 | 🧠 | 🧠 | 🧠 |
+  |[조수혜](https://github.com/suhyehye)| <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_python.svg" height="25"/> | 🧠 | 🧠 | 🧠 | 🧠 |
 </div>
