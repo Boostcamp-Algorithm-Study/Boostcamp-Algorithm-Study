@@ -34,4 +34,5 @@ while left < right:
     else:
         right -= 1
 
+ # 해당 인덱스 값을 출력
 print(liquid[ans_left], liquid[ans_right])
