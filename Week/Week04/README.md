@@ -9,7 +9,7 @@
   <!--링크 삽입할 때 Forked Repo(개인 저장소)가 아닌 Remote Repo(원본 저장소) 주소를 붙여넣을 것-->
   ||월요일|화요일|수요일|목요일|금요일|
   |:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
-  ||[두 용액](https://www.acmicpc.net/problem/2470)|[성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)|[]()|[]()|[땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)|
+  ||[두 용액](https://www.acmicpc.net/problem/2470)|[성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)|[문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)|[적록색약](https://www.acmicpc.net/problem/10026)|[땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)|
   |[김주성](https://github.com/kjs2109)| 🧠 | 🧠 | 🧠 | 🧠 | 🧠 |
   |[김지현](https://github.com/codehyunn)| 🧠 | 🧠 | 🧠 | 🧠 | 🧠 |
   |[박수영](https://github.com/nstalways)| 🧠 | 🧠 | 🧠 | 🧠 | 🧠 |
