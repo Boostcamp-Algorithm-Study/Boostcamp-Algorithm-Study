@@ -12,7 +12,7 @@
   ||[입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)|[숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)|[]()|[더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)|[방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)|
   |[김주성](https://github.com/kjs2109)| 🧠 | 🧠 | 🧠 | 🧠 | 🧠 |
   |[김지현](https://github.com/codehyunn)| 🧠 | 🧠 | 🧠 | 🧠 | 🧠 |
-  |[박수영](https://github.com/nstalways)| 🧠 | 🧠 | 🧠 | 🧠 | 🧠 |
+  |[박수영](https://github.com/nstalways)| [<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_python.svg" height="25"/>](./입국심사_박수영.py) | 🧠 | 🧠 | 🧠 | 🧠 |
   |[오동혁](https://github.com/97DongHyeokOH)|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_python.svg" height="25"/>](./입국심사_오동혁.py)| 🧠 | 🧠 | 🧠 | 🧠 |
   |[조수혜](https://github.com/suhyehye)| 🧠 | 🧠 | 🧠 | 🧠 | 🧠 |
 </div>
