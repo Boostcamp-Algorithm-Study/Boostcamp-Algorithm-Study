@@ -12,7 +12,7 @@
   ||[네트워크 연결](https://www.acmicpc.net/problem/1922)|[불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)|[괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)|[뉴스 전하기](https://www.acmicpc.net/problem/1135)|[[3차] 파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)|
   |[김주성](https://github.com/kjs2109)| 🧠 | 🧠 | 🧠| 🧠 | 🧠 |
   |[김지현](https://github.com/codehyunn)| 🧠 | 🧠 | 🧠 | 🧠 | 🧠 |
-  |[박수영](https://github.com/nstalways)| 🧠 | 🧠 | 🧠 | 🧠 | 🧠 |
+  |[박수영](https://github.com/nstalways)| [<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_python.svg" height="25"/>](./BOJ1922_박수영.py) | 🧠 | 🧠 | 🧠 | 🧠 |
   |[오동혁](https://github.com/97DongHyeokOH)|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_python.svg" height="25"/>](./BOJ1922_오동혁.py)| 🧠 | 🧠 | 🧠 | 🧠 |
   |[조수혜](https://github.com/suhyehye)| 🧠 | 🧠 | 🧠 | 🧠 | 🧠 |
 </div>
