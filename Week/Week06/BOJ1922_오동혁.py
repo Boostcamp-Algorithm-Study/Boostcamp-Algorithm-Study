@@ -59,4 +59,3 @@ while(cnt < n):
             heapq.heappush(queue, (next_cost, next_node))
 
 print(result)
-##
